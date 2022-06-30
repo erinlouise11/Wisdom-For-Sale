@@ -1,0 +1,15 @@
+*~
+*.swp
+*.swo
+.DS_Store
+.vscode
+.ethereum
+/todo.html
+build
+/users
+/non-examples/dev
+*.index
+/exp
+.reach
+.docker-root
+/test.sh
